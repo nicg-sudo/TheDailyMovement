@@ -244,7 +244,7 @@ export function WorkoutTimerScreen() {
         </div>
 
         {/* Controls */}
-        <div className="flex items-center gap-6 mt-auto">
+        <div className="flex items-center gap-6 mt-10">
           <button
             onClick={handleClose}
             className="p-4 hover:bg-gray-800 rounded-full transition-colors"
