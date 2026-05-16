@@ -29,8 +29,9 @@ export function MovementGuideScreen() {
   const [selectedPoseIndex, setSelectedPoseIndex] = useState(0);
   const [isPlaying, setIsPlaying] = useState(true);
 
-  // Reset selected pose when movement changes
+  // Reset selected pose and scroll position when movement changes
   useEffect(() => {
+    window.scrollTo(0, 0);
     setSelectedPoseIndex(0);
     setIsPlaying(true);
   }, [id]);

@@ -63,7 +63,7 @@ export function StreakScreen() {
   }, 0);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900 pb-20 relative overflow-y-auto [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-900 pb-20 relative overflow-hidden">
       {/* Decorative gradients */}
       <div className="absolute top-0 right-0 w-[300px] h-[300px] sm:w-[600px] sm:h-[600px] bg-amber-500/50 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 transition-all"></div>
       <div className="absolute bottom-0 left-0 w-[250px] h-[250px] sm:w-[500px] sm:h-[500px] bg-amber-500/50 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2 transition-all"></div>
