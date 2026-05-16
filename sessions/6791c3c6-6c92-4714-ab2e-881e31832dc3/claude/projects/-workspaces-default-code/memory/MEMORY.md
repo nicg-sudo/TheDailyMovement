@@ -1,0 +1,1 @@
+- [FitHome App Complete State](context-reset-webapp-state.md) — Full context reset for The Daily Movement fitness app with tech stack, features, and current implementation

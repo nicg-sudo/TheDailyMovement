@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "quick-morning-blast",
+    "name": "Quick Morning Blast",
+    "description": "Wake up your whole body in ten minutes",
+    "duration": 10,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Full body",
+      "Cardio"
+    ],
+    "intensity": "Moderate",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "jumping-jacks",
+        "workSeconds": 40,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 40,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 40,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 40,
+        "restSeconds": 10
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat"
+        ],
+        "muscleGroup": "Legs & glutes",
+        "realLifePayoff": "Builds the strength to stand up from a low sofa or pick up a dropped item"
+      },
+      {
+        "moveIds": [
+          "push-ups"
+        ],
+        "muscleGroup": "Chest & arms",
+        "realLifePayoff": "Makes pushing heavy doors and lifting yourself up easier"
+      },
+      {
+        "moveIds": [
+          "jumping-jacks",
+          "high-knees"
+        ],
+        "muscleGroup": "Heart & lungs",
+        "realLifePayoff": "Improves your stamina for climbing stairs without getting winded"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear a 2m × 2m space",
+      "Have water nearby",
+      "Wear supportive shoes or go barefoot"
+    ]
+  },
+  {
+    "id": "steady-strength",
+    "name": "Steady Strength",
+    "description": "Build functional strength for everyday tasks",
+    "duration": 15,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Full body"
+    ],
+    "intensity": "Easy",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 45,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 60,
+        "restSeconds": 15
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "lunges"
+        ],
+        "muscleGroup": "Legs & glutes",
+        "realLifePayoff": "Powers you through walking, stairs, and getting up from the floor"
+      },
+      {
+        "moveIds": [
+          "plank"
+        ],
+        "muscleGroup": "Core",
+        "realLifePayoff": "Protects your lower back when lifting groceries or kids"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & hamstrings",
+        "realLifePayoff": "Supports your posture when sitting at a desk all day"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear space around you",
+      "Have a yoga mat or soft surface",
+      "Keep water within reach"
+    ]
+  },
+  {
+    "id": "upper-body-burn",
+    "name": "Upper Body Burn",
+    "description": "Strengthen your chest, shoulders, and arms",
+    "duration": 20,
+    "equipment": [
+      "Chair"
+    ],
+    "focus": [
+      "Upper body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "push-ups",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "tricep-dips",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 40,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "push-ups",
+          "tricep-dips"
+        ],
+        "muscleGroup": "Chest, shoulders & triceps",
+        "realLifePayoff": "Makes pushing, lifting, and carrying overhead tasks easier"
+      },
+      {
+        "moveIds": [
+          "plank",
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Core & shoulders",
+        "realLifePayoff": "Builds stability for holding heavy objects and maintaining posture"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a sturdy chair or bench",
+      "Clear 2m × 2m space",
+      "Have water nearby"
+    ]
+  },
+  {
+    "id": "cardio-blast",
+    "name": "Cardio Blast",
+    "description": "Get your heart pumping with high-energy moves",
+    "duration": 15,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Cardio",
+      "Full body"
+    ],
+    "intensity": "Hard",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "burpees",
+        "workSeconds": 45,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "jumping-jacks",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "burpees",
+          "high-knees",
+          "jumping-jacks"
+        ],
+        "muscleGroup": "Heart & cardiovascular system",
+        "realLifePayoff": "Improves your endurance for running to catch the bus or playing with kids"
+      },
+      {
+        "moveIds": [
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Core & coordination",
+        "realLifePayoff": "Builds the stability and agility for quick direction changes"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear a 2m × 2m space",
+      "Have water close by",
+      "This is intense - take breaks as needed"
+    ]
+  },
+  {
+    "id": "core-foundation",
+    "name": "Core Foundation",
+    "description": "Strengthen your midsection and protect your back",
+    "duration": 10,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Core"
+    ],
+    "intensity": "Easy",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "plank",
+        "workSeconds": 35,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 45,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 35,
+        "restSeconds": 30
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "plank"
+        ],
+        "muscleGroup": "Core & lower back",
+        "realLifePayoff": "Protects your spine when bending, twisting, and lifting"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & lower back",
+        "realLifePayoff": "Counteracts the effects of sitting all day"
+      }
+    ],
+    "beforeYouBegin": [
+      "Use a mat or soft surface",
+      "Clear space around you",
+      "Focus on form over speed"
+    ]
+  },
+  {
+    "id": "leg-day-light",
+    "name": "Leg Day Light",
+    "description": "Build lower body strength without equipment",
+    "duration": 20,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Lower body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 4,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "step-ups",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat"
+        ],
+        "muscleGroup": "Quadriceps & glutes",
+        "realLifePayoff": "Powers you up stairs and helps you stand from low seats"
+      },
+      {
+        "moveIds": [
+          "lunges"
+        ],
+        "muscleGroup": "Legs & balance",
+        "realLifePayoff": "Improves your stability when walking on uneven ground"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & hamstrings",
+        "realLifePayoff": "Strengthens the muscles that support your lower back"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear 2m space",
+      "Use a mat if you have one",
+      "Keep water nearby"
+    ]
+  },
+  {
+    "id": "power-10",
+    "name": "Power 10",
+    "description": "Maximum intensity in minimal time",
+    "duration": 10,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Cardio",
+      "Full body"
+    ],
+    "intensity": "Hard",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "burpees",
+        "workSeconds": 30,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 30,
+        "restSeconds": 30
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "burpees"
+        ],
+        "muscleGroup": "Total body power",
+        "realLifePayoff": "Builds explosive strength for sudden physical demands"
+      },
+      {
+        "moveIds": [
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Core & cardiovascular system",
+        "realLifePayoff": "Improves your ability to sustain high-intensity activity"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear 2m × 2m space",
+      "Have water ready",
+      "Warm up first - this is intense"
+    ]
+  },
+  {
+    "id": "gentle-start",
+    "name": "Gentle Start",
+    "description": "Perfect for beginners or recovery days",
+    "duration": 15,
+    "equipment": [
+      "Chair"
+    ],
+    "focus": [
+      "Full body"
+    ],
+    "intensity": "Easy",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 45,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "tricep-dips",
+        "workSeconds": 45,
+        "restSeconds": 30
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "glute-bridge"
+        ],
+        "muscleGroup": "Lower body",
+        "realLifePayoff": "Builds foundational leg strength for daily movement"
+      },
+      {
+        "moveIds": [
+          "push-ups",
+          "tricep-dips"
+        ],
+        "muscleGroup": "Upper body",
+        "realLifePayoff": "Develops pushing strength for everyday tasks"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a sturdy chair",
+      "Move at your own pace",
+      "Focus on proper form"
+    ]
+  },
+  {
+    "id": "midday-energizer",
+    "name": "Midday Energizer",
+    "description": "Shake off the afternoon slump",
+    "duration": 15,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Full body",
+      "Cardio"
+    ],
+    "intensity": "Moderate",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "jumping-jacks",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 50,
+        "restSeconds": 25
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "jumping-jacks",
+          "high-knees"
+        ],
+        "muscleGroup": "Cardiovascular system",
+        "realLifePayoff": "Boosts energy and mental clarity"
+      },
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "push-ups"
+        ],
+        "muscleGroup": "Full body strength",
+        "realLifePayoff": "Maintains muscle through a sedentary day"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear space in your office or home",
+      "Keep water nearby",
+      "No equipment needed"
+    ]
+  },
+  {
+    "id": "easy-flow",
+    "name": "Easy Flow",
+    "description": "Low-impact movement for active recovery",
+    "duration": 20,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Full body",
+      "Core"
+    ],
+    "intensity": "Easy",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 50,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 35,
+        "restSeconds": 25
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 50,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 50,
+        "restSeconds": 10
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "lunges"
+        ],
+        "muscleGroup": "Lower body",
+        "realLifePayoff": "Keeps legs strong without overloading them"
+      },
+      {
+        "moveIds": [
+          "plank",
+          "glute-bridge"
+        ],
+        "muscleGroup": "Core & posterior chain",
+        "realLifePayoff": "Supports healthy posture and back health"
+      }
+    ],
+    "beforeYouBegin": [
+      "Use a mat for comfort",
+      "Move slowly and deliberately",
+      "Perfect for rest days"
+    ]
+  },
+  {
+    "id": "intense-20",
+    "name": "Intense 20",
+    "description": "Push your limits in twenty minutes",
+    "duration": 20,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Cardio",
+      "Full body"
+    ],
+    "intensity": "Hard",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "burpees",
+        "workSeconds": 35,
+        "restSeconds": 25
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "jumping-jacks",
+        "workSeconds": 40,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "burpees",
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Total body & core",
+        "realLifePayoff": "Builds functional fitness for any physical challenge"
+      },
+      {
+        "moveIds": [
+          "high-knees",
+          "jumping-jacks"
+        ],
+        "muscleGroup": "Cardiovascular endurance",
+        "realLifePayoff": "Increases stamina for sustained activity"
+      }
+    ],
+    "beforeYouBegin": [
+      "Warm up thoroughly",
+      "Have water ready",
+      "Take breaks if needed"
+    ]
+  },
+  {
+    "id": "full-body-flow",
+    "name": "Full Body Flow",
+    "description": "Balanced strength for your whole body",
+    "duration": 30,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Full body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 6,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 50,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 50,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 45,
+        "restSeconds": 15
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "lunges",
+          "glute-bridge"
+        ],
+        "muscleGroup": "Lower body",
+        "realLifePayoff": "Builds leg strength for all daily activities"
+      },
+      {
+        "moveIds": [
+          "push-ups",
+          "plank"
+        ],
+        "muscleGroup": "Upper body & core",
+        "realLifePayoff": "Develops pushing strength and stability"
+      }
+    ],
+    "beforeYouBegin": [
+      "Set aside 30 uninterrupted minutes",
+      "Have water nearby",
+      "Use a mat for comfort"
+    ]
+  },
+  {
+    "id": "endurance-builder",
+    "name": "Endurance Builder",
+    "description": "Build stamina with sustained effort",
+    "duration": 30,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Cardio",
+      "Full body"
+    ],
+    "intensity": "Hard",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "burpees",
+        "workSeconds": 55,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 55,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 55,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "jumping-jacks",
+        "workSeconds": 55,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 55,
+        "restSeconds": 25
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "burpees",
+          "mountain-climbers",
+          "high-knees"
+        ],
+        "muscleGroup": "Cardiovascular capacity",
+        "realLifePayoff": "Dramatically improves your endurance for any sustained physical activity"
+      },
+      {
+        "moveIds": [
+          "jumping-jacks"
+        ],
+        "muscleGroup": "Total body coordination",
+        "realLifePayoff": "Builds the fitness to handle long, active days"
+      }
+    ],
+    "beforeYouBegin": [
+      "Ensure you're well-rested",
+      "Warm up for 5 minutes first",
+      "This is challenging - listen to your body"
+    ]
+  },
+  {
+    "id": "steady-30",
+    "name": "Steady 30",
+    "description": "Gentle, sustained movement for beginners",
+    "duration": 30,
+    "equipment": [
+      "Chair"
+    ],
+    "focus": [
+      "Full body"
+    ],
+    "intensity": "Easy",
+    "rounds": 6,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 35,
+        "restSeconds": 25
+      },
+      {
+        "movementId": "tricep-dips",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 30,
+        "restSeconds": 30
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "lunges"
+        ],
+        "muscleGroup": "Legs & balance",
+        "realLifePayoff": "Builds foundational strength for walking and stairs"
+      },
+      {
+        "moveIds": [
+          "push-ups",
+          "tricep-dips",
+          "plank"
+        ],
+        "muscleGroup": "Upper body & core",
+        "realLifePayoff": "Develops strength for lifting and carrying"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a sturdy chair",
+      "Take your time",
+      "Perfect pace for building consistency"
+    ]
+  },
+  {
+    "id": "core-crusher",
+    "name": "Core Crusher",
+    "description": "Serious core strength in fifteen minutes",
+    "duration": 15,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Core"
+    ],
+    "intensity": "Hard",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "plank",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 40,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "plank",
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Core & stability",
+        "realLifePayoff": "Builds rock-solid core strength for protecting your back"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Posterior chain",
+        "realLifePayoff": "Counteracts sitting and supports healthy posture"
+      }
+    ],
+    "beforeYouBegin": [
+      "Use a mat",
+      "Focus on keeping core tight",
+      "Challenging - modify as needed"
+    ]
+  },
+  {
+    "id": "upper-strength",
+    "name": "Upper Strength",
+    "description": "Build arm and shoulder power",
+    "duration": 15,
+    "equipment": [
+      "Chair"
+    ],
+    "focus": [
+      "Upper body"
+    ],
+    "intensity": "Easy",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "push-ups",
+        "workSeconds": 35,
+        "restSeconds": 25
+      },
+      {
+        "movementId": "tricep-dips",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "plank",
+        "workSeconds": 30,
+        "restSeconds": 30
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "push-ups",
+          "tricep-dips"
+        ],
+        "muscleGroup": "Arms & chest",
+        "realLifePayoff": "Makes pushing, lifting, and carrying easier"
+      },
+      {
+        "moveIds": [
+          "plank"
+        ],
+        "muscleGroup": "Shoulders & core",
+        "realLifePayoff": "Builds stability for overhead tasks"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a sturdy chair",
+      "Clear space around you",
+      "Great for beginners"
+    ]
+  },
+  {
+    "id": "lower-body-power",
+    "name": "Lower Body Power",
+    "description": "Strengthen legs and glutes",
+    "duration": 15,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Lower body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 45,
+        "restSeconds": 15
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat"
+        ],
+        "muscleGroup": "Quads & glutes",
+        "realLifePayoff": "Powers you through stairs and standing from seated"
+      },
+      {
+        "moveIds": [
+          "lunges",
+          "glute-bridge"
+        ],
+        "muscleGroup": "Hamstrings & balance",
+        "realLifePayoff": "Improves stability and supports your lower back"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear 2m space",
+      "Use a mat if available",
+      "Focus on depth and control"
+    ]
+  },
+  {
+    "id": "chair-power",
+    "name": "Chair Power",
+    "description": "Full body strength using just a chair",
+    "duration": 20,
+    "equipment": [
+      "Chair"
+    ],
+    "focus": [
+      "Full body",
+      "Upper body"
+    ],
+    "intensity": "Hard",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "push-ups",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "tricep-dips",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 40,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "push-ups",
+          "tricep-dips"
+        ],
+        "muscleGroup": "Upper body",
+        "realLifePayoff": "Builds serious pushing and pressing strength"
+      },
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "mountain-climbers"
+        ],
+        "muscleGroup": "Legs & core",
+        "realLifePayoff": "Develops total body power and coordination"
+      }
+    ],
+    "beforeYouBegin": [
+      "Use a very sturdy chair",
+      "Clear space around it",
+      "Challenging workout - pace yourself"
+    ]
+  },
+  {
+    "id": "ten-minute-lower",
+    "name": "Ten Minute Lower",
+    "description": "Quick leg burner",
+    "duration": 10,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Lower body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 45,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 45,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 45,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "bodyweight-squat",
+          "lunges"
+        ],
+        "muscleGroup": "Legs & glutes",
+        "realLifePayoff": "Quick leg strengthening for busy days"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & hamstrings",
+        "realLifePayoff": "Activates muscles that support your back"
+      }
+    ],
+    "beforeYouBegin": [
+      "Clear space",
+      "Short but effective",
+      "Perfect for time crunches"
+    ]
+  },
+  {
+    "id": "core-stability",
+    "name": "Core Stability",
+    "description": "Build a stable, strong midsection",
+    "duration": 20,
+    "equipment": [
+      "Nothing"
+    ],
+    "focus": [
+      "Core"
+    ],
+    "intensity": "Moderate",
+    "rounds": 4,
+    "moves": [
+      {
+        "movementId": "plank",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "mountain-climbers",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "burpees",
+        "workSeconds": 55,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "plank"
+        ],
+        "muscleGroup": "Core & shoulders",
+        "realLifePayoff": "Protects your spine during daily movements"
+      },
+      {
+        "moveIds": [
+          "mountain-climbers",
+          "glute-bridge"
+        ],
+        "muscleGroup": "Core & posterior chain",
+        "realLifePayoff": "Builds stability for lifting and carrying"
+      }
+    ],
+    "beforeYouBegin": [
+      "Use a mat",
+      "Focus on controlled movements",
+      "Keep core engaged throughout"
+    ]
+  },
+  {
+    "id": "stair-power",
+    "name": "Stair Power",
+    "description": "Build lower body strength one step at a time",
+    "duration": 15,
+    "equipment": [
+      "Stairs"
+    ],
+    "focus": [
+      "Lower body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "step-ups",
+        "workSeconds": 65,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 60,
+        "restSeconds": 15
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "step-ups",
+          "bodyweight-squat"
+        ],
+        "muscleGroup": "Quads & glutes",
+        "realLifePayoff": "Powers you up stairs and hills without fatigue"
+      },
+      {
+        "moveIds": [
+          "lunges"
+        ],
+        "muscleGroup": "Legs & balance",
+        "realLifePayoff": "Builds single-leg strength for everyday stability"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & hamstrings",
+        "realLifePayoff": "Supports your posture and lower back"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a sturdy step or staircase",
+      "Clear the area around your step",
+      "Wear supportive shoes"
+    ]
+  },
+  {
+    "id": "stair-sprint-challenge",
+    "name": "Stair Sprint Challenge",
+    "description": "High-intensity cardio using stairs",
+    "duration": 10,
+    "equipment": [
+      "Stairs"
+    ],
+    "focus": [
+      "Cardio",
+      "Lower body"
+    ],
+    "intensity": "Hard",
+    "rounds": 4,
+    "moves": [
+      {
+        "movementId": "stair-climbs",
+        "workSeconds": 40,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "high-knees",
+        "workSeconds": 30,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "step-ups",
+        "workSeconds": 40,
+        "restSeconds": 10
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "stair-climbs",
+          "high-knees"
+        ],
+        "muscleGroup": "Cardiovascular system",
+        "realLifePayoff": "Rapidly builds stamina and lung capacity"
+      },
+      {
+        "moveIds": [
+          "step-ups",
+          "stair-climbs"
+        ],
+        "muscleGroup": "Legs & glutes",
+        "realLifePayoff": "Powers you through hills and inclines effortlessly"
+      }
+    ],
+    "beforeYouBegin": [
+      "Find a flight of 10-20 stairs",
+      "Make sure stairs are clear and safe",
+      "This is high intensity — pace yourself"
+    ]
+  },
+  {
+    "id": "dumbbell-strength",
+    "name": "Dumbbell Strength",
+    "description": "Build total body strength with weighted resistance",
+    "duration": 20,
+    "equipment": [
+      "Dumbbells"
+    ],
+    "focus": [
+      "Full body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 5,
+    "moves": [
+      {
+        "movementId": "goblet-squat",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "dumbbell-rows",
+        "workSeconds": 45,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "push-ups",
+        "workSeconds": 40,
+        "restSeconds": 20
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 45,
+        "restSeconds": 15
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "goblet-squat",
+          "lunges"
+        ],
+        "muscleGroup": "Legs & glutes",
+        "realLifePayoff": "Builds strength to carry heavy loads and climb stairs with ease"
+      },
+      {
+        "moveIds": [
+          "dumbbell-rows"
+        ],
+        "muscleGroup": "Back & biceps",
+        "realLifePayoff": "Powers pulling movements like opening doors and lifting objects"
+      },
+      {
+        "moveIds": [
+          "push-ups"
+        ],
+        "muscleGroup": "Chest & triceps",
+        "realLifePayoff": "Supports pushing and pressing in everyday activities"
+      }
+    ],
+    "beforeYouBegin": [
+      "Have dumbbells ready (start with 10-20 lbs)",
+      "Clear space around you",
+      "Keep water nearby"
+    ]
+  },
+  {
+    "id": "weighted-lower-body",
+    "name": "Weighted Lower Body",
+    "description": "Sculpt strong legs and glutes with dumbbells",
+    "duration": 15,
+    "equipment": [
+      "Dumbbells"
+    ],
+    "focus": [
+      "Lower body"
+    ],
+    "intensity": "Moderate",
+    "rounds": 3,
+    "moves": [
+      {
+        "movementId": "goblet-squat",
+        "workSeconds": 65,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "lunges",
+        "workSeconds": 65,
+        "restSeconds": 10
+      },
+      {
+        "movementId": "glute-bridge",
+        "workSeconds": 60,
+        "restSeconds": 15
+      },
+      {
+        "movementId": "bodyweight-squat",
+        "workSeconds": 55,
+        "restSeconds": 20
+      }
+    ],
+    "payoffs": [
+      {
+        "moveIds": [
+          "goblet-squat",
+          "bodyweight-squat"
+        ],
+        "muscleGroup": "Quads & glutes",
+        "realLifePayoff": "Powers you through daily squatting and standing movements"
+      },
+      {
+        "moveIds": [
+          "lunges"
+        ],
+        "muscleGroup": "Single-leg strength",
+        "realLifePayoff": "Improves balance and stability for walking and climbing"
+      },
+      {
+        "moveIds": [
+          "glute-bridge"
+        ],
+        "muscleGroup": "Glutes & hamstrings",
+        "realLifePayoff": "Supports your lower back and improves posture"
+      }
+    ],
+    "beforeYouBegin": [
+      "Choose appropriate weight (you should complete all reps with good form)",
+      "Use a mat for floor work",
+      "Focus on controlled movements"
+    ]
+  }
+]

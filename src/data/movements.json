@@ -1,0 +1,908 @@
+[
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "poses": [
+      {
+        "name": "Standing",
+        "formCues": ["Feet shoulder-width apart", "Chest up", "Arms forward"]
+      },
+      {
+        "name": "Bottom position",
+        "formCues": ["Hips below knees", "Weight in heels", "Knees aligned with toes"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Stand with feet shoulder-width apart, toes slightly out",
+        "coachingNote": "Imagine standing on train tracks, not a tightrope"
+      },
+      {
+        "instruction": "Send hips back as if sitting in a chair",
+        "coachingNote": "Lead with your butt, not your knees"
+      },
+      {
+        "instruction": "Lower until hips are below knees",
+        "coachingNote": "Only go as low as feels stable"
+      },
+      {
+        "instruction": "Drive through heels to stand back up",
+        "coachingNote": "Squeeze your glutes at the top"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Quadriceps",
+        "realLifePayoff": "Powers you up stairs and hills without burning out"
+      },
+      {
+        "name": "Glutes",
+        "realLifePayoff": "Builds the strength to stand up from a low sofa"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Protects your lower back when lifting heavy objects"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Chair-assisted squat",
+        "description": "Lightly touch a chair behind you at the bottom for balance"
+      },
+      {
+        "type": "harder",
+        "name": "Jump squat",
+        "description": "Explode up into a small jump at the top of each rep"
+      }
+    ],
+    "watchOuts": [
+      "Knees caving inward — push them out in line with your toes",
+      "Weight shifting to toes — keep heels glued to the floor",
+      "Rounding your lower back — keep chest proud and core tight"
+    ]
+  },
+  {
+    "id": "push-ups",
+    "name": "Push-Up",
+    "poses": [
+      {
+        "name": "High plank",
+        "formCues": ["Hands under shoulders", "Body in straight line", "Core engaged"]
+      },
+      {
+        "name": "Bottom position",
+        "formCues": ["Elbows at 45 degrees", "Chest near floor", "Head neutral"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Start in a high plank with hands slightly wider than shoulders",
+        "coachingNote": "Your body should form a straight line from head to heels"
+      },
+      {
+        "instruction": "Lower your chest toward the floor, elbows at 45 degrees",
+        "coachingNote": "Don't let your elbows flare out to the sides"
+      },
+      {
+        "instruction": "Stop when your chest is 1-2 inches from the ground",
+        "coachingNote": "Keep your core tight — don't let your hips sag"
+      },
+      {
+        "instruction": "Press through your palms to return to start",
+        "coachingNote": "Exhale as you push up"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Chest",
+        "realLifePayoff": "Makes pushing heavy doors and moving furniture easier"
+      },
+      {
+        "name": "Triceps",
+        "realLifePayoff": "Builds arm strength for lifting and carrying"
+      },
+      {
+        "name": "Shoulders",
+        "realLifePayoff": "Supports overhead reaching and holding objects"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Stabilizes your body during any pushing motion"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Knee push-up",
+        "description": "Drop your knees to the ground and maintain the same upper body form"
+      },
+      {
+        "type": "harder",
+        "name": "Diamond push-up",
+        "description": "Place hands close together forming a diamond shape with thumbs and index fingers"
+      }
+    ],
+    "watchOuts": [
+      "Hips sagging — engage your core and keep body straight",
+      "Elbows flaring wide — keep them at 45 degrees from your body",
+      "Head dropping — maintain neutral neck alignment"
+    ]
+  },
+  {
+    "id": "plank",
+    "name": "Plank Hold",
+    "poses": [
+      {
+        "name": "Standard plank",
+        "formCues": ["Forearms on ground", "Body straight", "Core engaged"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Start on forearms and toes, elbows under shoulders",
+        "coachingNote": "Clasp hands together or keep forearms parallel"
+      },
+      {
+        "instruction": "Engage your core and squeeze your glutes",
+        "coachingNote": "Imagine pulling your belly button toward your spine"
+      },
+      {
+        "instruction": "Keep your body in a straight line from head to heels",
+        "coachingNote": "Don't let your hips pike up or sag down"
+      },
+      {
+        "instruction": "Hold this position while breathing steadily",
+        "coachingNote": "If form breaks, drop to knees and continue"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Core",
+        "realLifePayoff": "Protects your spine during any bending or twisting motion"
+      },
+      {
+        "name": "Shoulders",
+        "realLifePayoff": "Builds the endurance to hold objects overhead"
+      },
+      {
+        "name": "Lower back",
+        "realLifePayoff": "Strengthens the muscles that support healthy posture"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Knee plank",
+        "description": "Drop your knees to the ground while keeping core engaged"
+      },
+      {
+        "type": "harder",
+        "name": "Plank with leg lift",
+        "description": "Lift one leg off the ground while holding the plank"
+      }
+    ],
+    "watchOuts": [
+      "Hips sagging — engage glutes and core",
+      "Hips too high — flatten out into a straight line",
+      "Holding your breath — breathe steadily throughout"
+    ]
+  },
+  {
+    "id": "jumping-jacks",
+    "name": "Jumping Jacks",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Feet together", "Arms at sides", "Standing tall"]
+      },
+      {
+        "name": "Jump position",
+        "formCues": ["Feet wide", "Arms overhead", "Land softly"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Start standing with feet together and arms at your sides",
+        "coachingNote": "Stand tall with good posture"
+      },
+      {
+        "instruction": "Jump feet apart while raising arms overhead",
+        "coachingNote": "Land with soft knees, not locked"
+      },
+      {
+        "instruction": "Immediately jump feet back together while lowering arms",
+        "coachingNote": "Keep a steady rhythm"
+      },
+      {
+        "instruction": "Continue at a pace that keeps your heart rate up",
+        "coachingNote": "Modify to stepping side to side if needed"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Cardiovascular system",
+        "realLifePayoff": "Improves your endurance for sustained activity"
+      },
+      {
+        "name": "Calves & legs",
+        "realLifePayoff": "Builds the power for jumping and quick movements"
+      },
+      {
+        "name": "Shoulders",
+        "realLifePayoff": "Strengthens overhead reaching mobility"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Step jacks",
+        "description": "Step one foot out at a time instead of jumping"
+      },
+      {
+        "type": "harder",
+        "name": "Plank jacks",
+        "description": "Perform the leg motion in a plank position"
+      }
+    ],
+    "watchOuts": [
+      "Landing with locked knees — keep them soft and bent",
+      "Rushing the movement — maintain control",
+      "Poor posture — keep chest up throughout"
+    ]
+  },
+  {
+    "id": "lunges",
+    "name": "Alternating Lunges",
+    "poses": [
+      {
+        "name": "Standing",
+        "formCues": ["Feet hip-width", "Hands on hips", "Chest up"]
+      },
+      {
+        "name": "Lunge position",
+        "formCues": ["Front knee at 90°", "Back knee hovering", "Torso upright"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Stand with feet hip-width apart",
+        "coachingNote": "Keep hands on hips or at your sides"
+      },
+      {
+        "instruction": "Step forward with one leg, lowering your hips",
+        "coachingNote": "Take a big enough step that your front knee stays over your ankle"
+      },
+      {
+        "instruction": "Lower until both knees are at 90 degrees",
+        "coachingNote": "Back knee should hover just above the ground"
+      },
+      {
+        "instruction": "Push through front heel to return to standing, then alternate",
+        "coachingNote": "Keep your torso upright throughout"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Quadriceps & glutes",
+        "realLifePayoff": "Builds single-leg strength for walking and climbing"
+      },
+      {
+        "name": "Balance & coordination",
+        "realLifePayoff": "Improves stability on uneven surfaces"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Strengthens the muscles that keep you upright"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Assisted lunge",
+        "description": "Hold onto a wall or chair for balance"
+      },
+      {
+        "type": "harder",
+        "name": "Jumping lunges",
+        "description": "Explode up and switch legs mid-air"
+      }
+    ],
+    "watchOuts": [
+      "Front knee passing toes — step further forward",
+      "Leaning too far forward — keep torso upright",
+      "Wobbling — engage core for stability"
+    ]
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Lying on back", "Knees bent", "Feet flat"]
+      },
+      {
+        "name": "Bridge position",
+        "formCues": ["Hips lifted", "Shoulders to knees straight", "Glutes squeezed"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Lie on your back with knees bent and feet flat on the floor",
+        "coachingNote": "Place feet hip-width apart, close to your butt"
+      },
+      {
+        "instruction": "Press through your heels to lift your hips toward the ceiling",
+        "coachingNote": "Squeeze your glutes as you lift"
+      },
+      {
+        "instruction": "Hold at the top with body in a straight line from shoulders to knees",
+        "coachingNote": "Don't over-arch your lower back"
+      },
+      {
+        "instruction": "Lower back down with control",
+        "coachingNote": "Touch the ground briefly, then repeat"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Glutes",
+        "realLifePayoff": "Powers hip extension for walking up hills and stairs"
+      },
+      {
+        "name": "Hamstrings",
+        "realLifePayoff": "Supports your knees and lower back during movement"
+      },
+      {
+        "name": "Lower back",
+        "realLifePayoff": "Counteracts the effects of sitting all day"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Shorter range",
+        "description": "Lift hips only halfway if full range is difficult"
+      },
+      {
+        "type": "harder",
+        "name": "Single-leg bridge",
+        "description": "Extend one leg straight and lift with the other"
+      }
+    ],
+    "watchOuts": [
+      "Over-arching lower back — stop at neutral spine alignment",
+      "Pushing through toes — drive through heels",
+      "Not squeezing glutes — actively contract them at top"
+    ]
+  },
+  {
+    "id": "high-knees",
+    "name": "High Knees",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Stand tall", "Core engaged", "Ready to run"]
+      },
+      {
+        "name": "High knee position",
+        "formCues": ["Knee parallel to floor", "Opposite arm forward", "On ball of foot"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Stand tall with feet hip-width apart",
+        "coachingNote": "Keep your core engaged"
+      },
+      {
+        "instruction": "Drive one knee up toward your chest",
+        "coachingNote": "Aim to bring your thigh parallel to the ground"
+      },
+      {
+        "instruction": "Quickly switch legs in a running motion",
+        "coachingNote": "Stay on the balls of your feet"
+      },
+      {
+        "instruction": "Pump your arms in opposition to your legs",
+        "coachingNote": "Maintain a quick, rhythmic pace"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Hip flexors & quads",
+        "realLifePayoff": "Improves your ability to run and walk up inclines"
+      },
+      {
+        "name": "Cardiovascular system",
+        "realLifePayoff": "Builds the stamina to sustain physical activity"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Stabilizes your body during dynamic movement"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Marching in place",
+        "description": "Slow the pace to a march and lift knees lower"
+      },
+      {
+        "type": "harder",
+        "name": "Explosive high knees",
+        "description": "Drive knees as high as possible with maximum speed"
+      }
+    ],
+    "watchOuts": [
+      "Leaning back — keep torso upright",
+      "Stomping feet — stay light on the balls of your feet",
+      "Swinging arms wildly — keep movement controlled"
+    ]
+  },
+  {
+    "id": "burpees",
+    "name": "Burpee",
+    "poses": [
+      {
+        "name": "Standing",
+        "formCues": ["Feet hip-width", "Arms raised", "Ready position"]
+      },
+      {
+        "name": "Crouch",
+        "formCues": ["Squat down", "Hands on floor", "Prepare to jump back"]
+      },
+      {
+        "name": "High Plank",
+        "formCues": ["Jump feet back", "Body in straight line", "Core engaged"]
+      },
+      {
+        "name": "Push-up",
+        "formCues": ["Lower chest to floor", "Elbows at 45 degrees"]
+      },
+      {
+        "name": "Crouch Return",
+        "formCues": ["Jump feet back to hands", "Prepare to jump up"]
+      },
+      {
+        "name": "Jump",
+        "formCues": ["Explode upward", "Arms overhead", "Land softly"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Start standing, then squat down and place hands on the floor",
+        "coachingNote": "Hands should be shoulder-width apart"
+      },
+      {
+        "instruction": "Jump or step feet back into a high plank position",
+        "coachingNote": "Keep your body in a straight line"
+      },
+      {
+        "instruction": "Perform a push-up by lowering your chest to the floor",
+        "coachingNote": "Keep your core tight — don't let your hips sag"
+      },
+      {
+        "instruction": "Push back up and jump or step feet forward to hands",
+        "coachingNote": "Land in a crouch position"
+      },
+      {
+        "instruction": "Jump up with arms overhead, landing softly",
+        "coachingNote": "You can step instead of jumping to modify"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Full body",
+        "realLifePayoff": "Builds total-body power and coordination"
+      },
+      {
+        "name": "Cardiovascular system",
+        "realLifePayoff": "Rapidly improves your heart and lung capacity"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Strengthens stability during explosive movements"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Step-back burpee",
+        "description": "Step back one foot at a time instead of jumping, and skip the final jump"
+      },
+      {
+        "type": "harder",
+        "name": "Burpee with push-up",
+        "description": "Add a full push-up when in the plank position"
+      }
+    ],
+    "watchOuts": [
+      "Sagging hips in plank — keep core engaged",
+      "Landing with locked knees — absorb impact with soft knees",
+      "Rushing form — slow down if technique breaks down"
+    ]
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers",
+    "poses": [
+      {
+        "name": "Plank position",
+        "formCues": ["Hands under shoulders", "Body straight", "Core tight"]
+      },
+      {
+        "name": "Knee drive",
+        "formCues": ["Knee toward chest", "Other leg extended", "Hips level"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Start in a high plank position with hands under shoulders",
+        "coachingNote": "Keep your core engaged and body straight"
+      },
+      {
+        "instruction": "Drive one knee toward your chest",
+        "coachingNote": "Keep your hips level — don't pike up"
+      },
+      {
+        "instruction": "Quickly switch legs, extending the bent leg back",
+        "coachingNote": "Think of running in place while in a plank"
+      },
+      {
+        "instruction": "Continue alternating at a quick pace",
+        "coachingNote": "Maintain plank form throughout"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Core",
+        "realLifePayoff": "Builds rotational stability for twisting and turning"
+      },
+      {
+        "name": "Shoulders",
+        "realLifePayoff": "Strengthens the muscles that support your upper body"
+      },
+      {
+        "name": "Hip flexors",
+        "realLifePayoff": "Improves agility and quick direction changes"
+      },
+      {
+        "name": "Cardiovascular system",
+        "realLifePayoff": "Boosts heart rate for improved endurance"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Slow mountain climbers",
+        "description": "Slow the pace down to focus on form and control"
+      },
+      {
+        "type": "harder",
+        "name": "Cross-body mountain climbers",
+        "description": "Drive knee toward opposite elbow for added oblique work"
+      }
+    ],
+    "watchOuts": [
+      "Hips bouncing up and down — keep them level",
+      "Shoulders shifting forward — keep hands under shoulders",
+      "Poor plank form — drop to knees if form breaks"
+    ]
+  },
+  {
+    "id": "tricep-dips",
+    "name": "Tricep Dips",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Hands on chair edge", "Hips off chair", "Legs extended"]
+      },
+      {
+        "name": "Bottom position",
+        "formCues": ["Elbows at 90°", "Shoulders down", "Close to chair"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Sit on the edge of a sturdy chair, place hands next to hips",
+        "coachingNote": "Fingers should point forward"
+      },
+      {
+        "instruction": "Slide your butt off the chair and extend legs forward",
+        "coachingNote": "Bend knees for easier version, straighten for harder"
+      },
+      {
+        "instruction": "Lower your body by bending elbows to 90 degrees",
+        "coachingNote": "Keep elbows pointing back, not flaring out"
+      },
+      {
+        "instruction": "Press through your palms to straighten arms and return to start",
+        "coachingNote": "Keep your back close to the chair"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Triceps",
+        "realLifePayoff": "Builds arm strength for pushing yourself up from chairs or the floor"
+      },
+      {
+        "name": "Shoulders",
+        "realLifePayoff": "Supports overhead lifting and carrying"
+      },
+      {
+        "name": "Chest",
+        "realLifePayoff": "Assists in any pushing motion"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Bent-knee dips",
+        "description": "Keep knees bent with feet closer to the chair"
+      },
+      {
+        "type": "harder",
+        "name": "Elevated dips",
+        "description": "Place feet on another chair or elevated surface"
+      }
+    ],
+    "watchOuts": [
+      "Elbows flaring wide — keep them pointing back",
+      "Shoulders shrugging up — keep them down and back",
+      "Moving too far from chair — stay close to it"
+    ]
+  },
+  {
+    "id": "step-ups",
+    "name": "Step-Ups",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Standing in front of step", "Chest up", "Core engaged"]
+      },
+      {
+        "name": "Step up",
+        "formCues": ["Foot flat on step", "Knee over ankle", "Push through heel"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Stand facing a step or staircase with feet hip-width apart",
+        "coachingNote": "Start with a lower step if you're new to this"
+      },
+      {
+        "instruction": "Place your right foot fully on the step",
+        "coachingNote": "Make sure your entire foot is on the step, not just your toes"
+      },
+      {
+        "instruction": "Push through your right heel to lift your body up",
+        "coachingNote": "Drive with your glutes and quads, not momentum"
+      },
+      {
+        "instruction": "Bring left foot up to meet the right, then step down with control",
+        "coachingNote": "Alternate legs each rep or do all reps on one side first"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Quadriceps",
+        "realLifePayoff": "Powers you up stairs and hills without fatigue"
+      },
+      {
+        "name": "Glutes",
+        "realLifePayoff": "Builds strength for climbing and everyday movements"
+      },
+      {
+        "name": "Hamstrings",
+        "realLifePayoff": "Supports knee stability and walking uphill"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Lower step height",
+        "description": "Use the first step or a lower platform"
+      },
+      {
+        "type": "harder",
+        "name": "Explosive step-ups",
+        "description": "Drive up explosively and briefly lift the back foot off the ground"
+      }
+    ],
+    "watchOuts": [
+      "Knee caving inward — keep it aligned with your toes",
+      "Leaning forward — keep chest up and core engaged",
+      "Using momentum — control the movement up and down"
+    ]
+  },
+  {
+    "id": "stair-climbs",
+    "name": "Stair Climbs",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["At bottom of stairs", "Athletic stance", "Ready to move"]
+      },
+      {
+        "name": "Climbing",
+        "formCues": ["Quick steps", "Pumping arms", "Light on feet"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Stand at the bottom of a staircase in an athletic stance",
+        "coachingNote": "Choose a flight of 10-20 steps to start"
+      },
+      {
+        "instruction": "Climb the stairs at a brisk pace, taking one or two steps at a time",
+        "coachingNote": "Land on the balls of your feet, not flat-footed"
+      },
+      {
+        "instruction": "Pump your arms in opposition to your legs",
+        "coachingNote": "Keep a steady rhythm and breathing pattern"
+      },
+      {
+        "instruction": "Walk down carefully to recover, then repeat",
+        "coachingNote": "Never run down stairs — the descent is your active recovery"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Cardiovascular system",
+        "realLifePayoff": "Builds stamina for sustained physical activity"
+      },
+      {
+        "name": "Legs & glutes",
+        "realLifePayoff": "Powers you through hills and inclines without burning out"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Stabilizes your body during dynamic movement"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Slower pace",
+        "description": "Walk up at a moderate pace, focusing on consistency"
+      },
+      {
+        "type": "harder",
+        "name": "Double steps",
+        "description": "Take two steps at a time to increase intensity"
+      }
+    ],
+    "watchOuts": [
+      "Holding breath — maintain steady breathing throughout",
+      "Gripping handrail too tight — use lightly for balance only",
+      "Running down stairs — always walk down for safety"
+    ]
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Goblet Squat",
+    "poses": [
+      {
+        "name": "Standing with weight",
+        "formCues": ["Hold dumbbell at chest", "Feet shoulder-width", "Elbows pointing down"]
+      },
+      {
+        "name": "Bottom position",
+        "formCues": ["Hips below knees", "Weight stays at chest", "Chest up"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Hold one dumbbell vertically at chest height with both hands",
+        "coachingNote": "Cup the top of the dumbbell with your palms, elbows pointing down"
+      },
+      {
+        "instruction": "Stand with feet shoulder-width apart, toes slightly out",
+        "coachingNote": "The weight at your chest helps you sit back naturally"
+      },
+      {
+        "instruction": "Lower down by sending hips back, keeping weight at chest",
+        "coachingNote": "Your elbows should track between your knees"
+      },
+      {
+        "instruction": "Drive through heels to stand back up",
+        "coachingNote": "The weight adds resistance and helps you learn proper depth"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Quadriceps",
+        "realLifePayoff": "Builds leg strength for climbing stairs with groceries"
+      },
+      {
+        "name": "Glutes",
+        "realLifePayoff": "Powers you up from low positions while carrying weight"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Strengthens your torso to support loads safely"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Lighter weight or bodyweight",
+        "description": "Start with no weight to master form, then add a light dumbbell"
+      },
+      {
+        "type": "harder",
+        "name": "Pause at bottom",
+        "description": "Hold the bottom position for 2-3 seconds before standing"
+      }
+    ],
+    "watchOuts": [
+      "Knees caving inward — push them out in line with toes",
+      "Leaning too far forward — keep chest up and weight at chest level",
+      "Heels lifting — keep weight in heels throughout"
+    ]
+  },
+  {
+    "id": "dumbbell-rows",
+    "name": "Dumbbell Rows",
+    "poses": [
+      {
+        "name": "Starting position",
+        "formCues": ["Bent over at hips", "Back flat", "Arms extended"]
+      },
+      {
+        "name": "Row position",
+        "formCues": ["Dumbbells at ribs", "Elbows back", "Shoulder blades squeezed"]
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Hold a dumbbell in each hand, hinge forward at hips",
+        "coachingNote": "Keep your back flat and core tight, slight bend in knees"
+      },
+      {
+        "instruction": "Let arms hang straight down with palms facing each other",
+        "coachingNote": "You should feel a stretch in your lats"
+      },
+      {
+        "instruction": "Pull dumbbells up toward your ribs, leading with elbows",
+        "coachingNote": "Think about pulling your elbows back, not just lifting the weights"
+      },
+      {
+        "instruction": "Lower dumbbells back down with control",
+        "coachingNote": "Squeeze shoulder blades together at the top of each rep"
+      }
+    ],
+    "muscles": [
+      {
+        "name": "Back (lats & rhomboids)",
+        "realLifePayoff": "Builds pulling strength for opening heavy doors and lifting objects"
+      },
+      {
+        "name": "Biceps",
+        "realLifePayoff": "Supports carrying bags and holding children"
+      },
+      {
+        "name": "Core",
+        "realLifePayoff": "Stabilizes your spine when bending and lifting"
+      }
+    ],
+    "modifications": [
+      {
+        "type": "easier",
+        "name": "Single-arm row with support",
+        "description": "Place one hand on a chair for support, row one arm at a time"
+      },
+      {
+        "type": "harder",
+        "name": "Slow tempo rows",
+        "description": "Take 3 seconds to lift, pause, then 3 seconds to lower"
+      }
+    ],
+    "watchOuts": [
+      "Rounding your back — keep spine neutral throughout",
+      "Using momentum — control the weight, don't swing it",
+      "Shrugging shoulders — keep shoulders down and back"
+    ]
+  }
+]
